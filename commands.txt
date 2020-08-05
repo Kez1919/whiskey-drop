@@ -1,0 +1,8 @@
+git add .......
+git commit -m "description of changes"
+git push
+
+pyhton3 -m http.server  - allows web view
+
+git status
+
